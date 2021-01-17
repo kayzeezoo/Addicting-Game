@@ -20,3 +20,4 @@ Challenge your friends.
 ## Choose Your Backround
 To change your backround press b.
 Then press p to play.
+![](changeBackground3.gif)
