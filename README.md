@@ -18,3 +18,5 @@ You get points everytime the ball touches the paddle.
 Challenge your friends.
 
 ## Choose Your Backround
+To change your backround press b.
+Then press p to play.
