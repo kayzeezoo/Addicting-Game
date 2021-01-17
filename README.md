@@ -5,6 +5,10 @@ Game created in Python.
 The goal of this game is keep the ball from going of the screen.
 Every the ball hits the paddle you get ten points.
 
+## Game Link
+Make sure to click on the picture before you play.
+https://trinket.io/python/f3dbd7f6dd?outputOnly=true
+
 ## Screenshots
 <img src="gamescore.png" width="550">
 <img src="gamedemo.png" width="550">
